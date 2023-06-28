@@ -1,0 +1,12 @@
+#loginParentDiv {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+#loginDiv {
+  width: 90vw;
+  height: 80vh;
+  box-shadow: 5px 5px 5px;
+}

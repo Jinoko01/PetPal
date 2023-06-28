@@ -1,0 +1,50 @@
+#loginFormDiv {
+  display: block;
+  width: 40%;
+  margin: 0 auto;
+}
+
+#loginFormDiv > input {
+  display: block;
+  width: 95.5%;
+  font-size: 20px;
+  margin-bottom: 9px;
+  border: 1px solid #f4f4f4;
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+#loginKeep {
+  margin-top: 9px;
+}
+
+#loginButton {
+  display: block;
+  width: 100%;
+  background-color: #fed586;
+  border: 1px solid #fed586;
+  margin-top: 3px;
+  padding: 12px;
+  font-size: 24px;
+  color: #875100;
+  font-weight: 700;
+}
+
+#loginText {
+  text-decoration: none;
+  font-size: 24px;
+  color: #875100;
+  font-weight: 700;
+}
+
+#signAndSearch {
+  width: 40%;
+  margin: 8px auto;
+}
+
+#signAndSearch * {
+  text-decoration: none;
+  color: #7f7f7f;
+  margin-right: 16px;
+  font-weight: 700;
+}
